@@ -50,7 +50,7 @@
   "devDependencies": {
     "concat-stream": "^2.0.0",
     "eslint": "^9.34.0",
-    "express": "^4.19.2",
+    "express": "^5.1.0",
     "lolex": "^3.1.0",
     "mocha": "^11.7.3",
     "nyc": "^14.1.1"
